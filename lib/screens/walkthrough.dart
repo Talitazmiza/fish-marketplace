@@ -12,25 +12,25 @@ class _WalkthroughState extends State<Walkthrough> {
 
   List pageInfos = [
     {
-      "title": "Fresh Food",
-      "body": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus."
-          " Vestibulum ac diam sit amet quam vehicula elementum sed sit amet "
-          "dui. Nulla porttitor accumsan tincidunt.",
-      "img": "assets/on1.png",
+      "title": "Ikan Segar",
+      "body": "Dari lautan terdalam."
+          " Kualitas no.1."
+          " Sehat dan segar.",
+      "img": "assets/animals.png",
     },
     {
       "title": "Fast Delivery",
-      "body": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus."
-          " Vestibulum ac diam sit amet quam vehicula elementum sed sit amet "
-          "dui. Nulla porttitor accumsan tincidunt.",
-      "img": "assets/on2.png",
+      "body": "Sistem pengantaran 24 jam."
+          " Cepat dan aman"
+          " Terpercaya.",
+      "img": "assets/truck.png",
     },
     {
       "title": "Easy Payment",
-      "body": "Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus."
-          " Vestibulum ac diam sit amet quam vehicula elementum sed sit amet "
-          "dui. Nulla porttitor accumsan tincidunt.",
-      "img": "assets/on3.png",
+      "body": "Bayar lebih mudah, belanja jadi mudah."
+          " Tanpa perantara."
+          " Cepat dan efektif.",
+      "img": "assets/payment.png",
     },
   ];
   @override

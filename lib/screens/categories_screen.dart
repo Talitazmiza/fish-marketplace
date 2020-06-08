@@ -13,7 +13,7 @@ class CategoriesScreen extends StatefulWidget {
 
 class _CategoriesScreenState extends State<CategoriesScreen> {
 
-  String catie = "Drinks";
+  String catie = "Ikan Air";
   @override
   Widget build(BuildContext context) {
     return Scaffold(

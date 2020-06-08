@@ -1,23 +1,23 @@
 List<Map> foods = [
   {
-    "img": "assets/food1.jpeg",
-    "name": "Fruit Salad"
+    "img": "assets/fishy3.jpg",
+    "name": "Gurami"
   },
   {
-    "img": "assets/food2.jpeg",
-    "name": "Fruit Salad"
+    "img": "assets/fishy1.jpg",
+    "name": "Koi"
   },
   {
-    "img": "assets/food3.jpeg",
-    "name": "Hamburger"
+    "img": "assets/fishy2.jpg",
+    "name": "Ikan"
   },
   {
-    "img": "assets/food4.jpeg",
-    "name": "Fruit Salad"
+    "img": "assets/fishy4.jpg",
+    "name": "Ikan"
   },
   {
-    "img": "assets/food5.jpeg",
-    "name": "Hamburger"
+    "img": "assets/fishy4.jpg",
+    "name": "Ikan"
   },
   {
     "img": "assets/food6.jpeg",

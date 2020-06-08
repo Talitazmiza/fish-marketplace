@@ -25,7 +25,7 @@ class _ProfileState extends State<Profile> {
                 Padding(
                   padding: EdgeInsets.only(left: 10.0, right: 10.0),
                   child: Image.asset(
-                    "assets/cm4.jpeg",
+                    "assets/fathoni.jpg",
                     fit: BoxFit.cover,
                     width: 100.0,
                     height: 100.0,
@@ -40,7 +40,7 @@ class _ProfileState extends State<Profile> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: <Widget>[
                           Text(
-                            "Jane Doe",
+                            "Fatini",
                             style: TextStyle(
                               fontSize: 20.0,
                               fontWeight: FontWeight.bold,
@@ -55,7 +55,7 @@ class _ProfileState extends State<Profile> {
                         mainAxisAlignment: MainAxisAlignment.spaceBetween,
                         children: <Widget>[
                           Text(
-                            "jane@doefamily.com",
+                            "Tono@Ali.com",
                             style: TextStyle(
                               fontSize: 14.0,
                               fontWeight: FontWeight.bold,
@@ -121,7 +121,7 @@ class _ProfileState extends State<Profile> {
               ),
 
               subtitle: Text(
-                "Jane Mary Doe",
+                "Tono Ali M",
               ),
 
               trailing: IconButton(
@@ -145,7 +145,7 @@ class _ProfileState extends State<Profile> {
               ),
 
               subtitle: Text(
-                "jane@doefamily.com",
+                "Tono@Ali.com",
               ),
             ),
 
@@ -173,7 +173,7 @@ class _ProfileState extends State<Profile> {
               ),
 
               subtitle: Text(
-                "1278 Loving Acres RoadKansas City, MO 64110",
+                "Taman Raya Selatan",
               ),
             ),
 
@@ -187,7 +187,7 @@ class _ProfileState extends State<Profile> {
               ),
 
               subtitle: Text(
-                "Female",
+                "Laki",
               ),
             ),
 
@@ -201,7 +201,7 @@ class _ProfileState extends State<Profile> {
               ),
 
               subtitle: Text(
-                "April 9, 1995",
+                "April 9, 1000",
               ),
             ),
 
