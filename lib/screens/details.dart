@@ -26,7 +26,7 @@ class _ProductDetailsState extends State<ProductDetails> {
         ),
         centerTitle: true,
         title: Text(
-          "Item Details",
+          "Detail Ikan",
         ),
         elevation: 0.0,
         actions: <Widget>[
@@ -156,7 +156,7 @@ class _ProductDetailsState extends State<ProductDetails> {
             SizedBox(height: 20.0),
 
             Text(
-              "Product Description",
+              "Deskripsi Ikan",
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.w800,
@@ -167,17 +167,8 @@ class _ProductDetailsState extends State<ProductDetails> {
             SizedBox(height: 10.0),
 
             Text(
-              "Nulla quis lorem ut libero malesuada feugiat. Lorem ipsum dolor "
-                  "sit amet, consectetur adipiscing elit. Curabitur aliquet quam "
-                  "id dui posuere blandit. Pellentesque in ipsum id orci porta "
-                  "dapibus. Vestibulum ante ipsum primis in faucibus orci luctus "
-                  "et ultrices posuere cubilia Curae; Donec velit neque, auctor "
-                  "sit amet aliquam vel, ullamcorper sit amet ligula. Donec"
-                  " rutrum congue leo eget malesuada. Vivamus magna justo,"
-                  " lacinia eget consectetur sed, convallis at tellus."
-                  " Vivamus suscipit tortor eget felis porttitor volutpat."
-                  " Donec rutrum congue leo eget malesuada."
-                  " Pellentesque in ipsum id orci porta dapibus.",
+              "Ikan dari alam liar, sangat enak, renyah, dan gurih ketika dimasak. "
+                  "Memiliki banyak jenis corak warna dan bentuk. ",
               style: TextStyle(
                 fontSize: 13,
                 fontWeight: FontWeight.w300,
@@ -187,7 +178,7 @@ class _ProductDetailsState extends State<ProductDetails> {
             SizedBox(height: 20.0),
 
             Text(
-              "Reviews",
+              "Testimoni",
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.w800,
